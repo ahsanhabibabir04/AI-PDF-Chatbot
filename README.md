@@ -4,6 +4,10 @@ An interactive, locally running AI chatbot that lets users upload PDF documents 
 
 The application runs on your own computer and does not require a hosted LLM API.
 
+## Application Screenshot
+
+![AI PDF Chatbot Demo](screenshots/app-demo.png)
+
 ## Features
 
 - Upload and process PDF documents
